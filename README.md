@@ -1,7 +1,7 @@
-### Hi there 👋
+<p align="center"><img src="https://png.pngtree.com/thumb_back/fh260/background/20220522/pngtree-server-farm-banner-system-administration-image_1374995.jpg"></p>
 
 <!--
-**christophergarcia-KS/christophergarcia-KS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**christophergarcia-KS/christophergarcia-KS* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
